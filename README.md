@@ -62,5 +62,6 @@ Hi, I’m **Abinash Partha Sarathi Giri**, a **pre-final year Computer Science E
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abinash-partha-sarathi-giri-292623287/)   
 
 ---
+![GitHub Snake Light](https://raw.githubusercontent.com/ABIN2005/ABIN2005/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/ABIN2005/ABIN2005/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-![snake gif](https://github.com/ABIN2005/ABIN2005/blob/output/github-contribution-grid-snake.svg)
