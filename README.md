@@ -2,7 +2,7 @@
 
 ![hello](https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif)
 
-<img align="right" src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u" width="400"/>
+<img align="right" src="[https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRpOTA0OHlnd2swcW9taHppODM4andzZGVsMnhwam1vYmk5dmlkYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)" width="400"/>
 
 
 
