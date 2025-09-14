@@ -2,7 +2,7 @@
 
 ![hello](https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif)
 
-<img align="right" src="https://media.giphy.com/media/5VKbvrjxpVJCM/giphy.gif" width="400"/>
+<img align="right" src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u" width="400"/>
 
 
 
