@@ -2,7 +2,7 @@
 
 ![hello](https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif)
 
-<img align="right" src="https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="400"/>
+<img src="https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="400" height="300" alt="Coding GIF" />
 
 
 
