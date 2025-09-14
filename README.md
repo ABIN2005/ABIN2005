@@ -2,7 +2,8 @@
 
 ![hello](https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif)
 
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
+<img align="right" src="https://media.giphy.com/media/4Zo41lhzKt6iZ8xff9/giphy.gif" width="400"/>
+
 
 ## 👨‍💻 About Me  
 Hi, I’m **Abinash Partha Sarathi Giri**, a **pre-final year Computer Science Engineering student at SRM University**.  
